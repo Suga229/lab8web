@@ -36,6 +36,12 @@ mengakses directory
 
 <h1>9. mengubah data (update)</h1>
 
-![image](https://github.com/user-attachments/assets/706946d2-8673-4364-bd07-37e4bb5813f3)
+![image](https://github.com/user-attachments/assets/7844af7e-6927-467f-bc10-4d8480614e7a)
+
+<h1>10. menghapus data(delete)</h1>
+
+![image](https://github.com/user-attachments/assets/45d7f9b0-f3cd-48ba-a7c4-f876a6cfb88b)
+
+
 
 
